@@ -1,0 +1,1 @@
+streamlit run  streamlit run st_app.py --theme.base "dark"

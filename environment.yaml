@@ -156,3 +156,4 @@ dependencies:
       - watchdog==3.0.0
       - websockets==11.0.3
       - zipp==3.16.2
+prefix: C:\Users\pedro\miniconda3
